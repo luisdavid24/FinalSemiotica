@@ -1,0 +1,25 @@
+.img_usuario{
+    width: 42px;
+}
+.img_usuario_select{
+    width: 100px;
+    height: 100px;
+    border:none;
+}
+
+.colorVerder{
+    background-color: green;
+}
+.colorAmarillo{
+    background-color: yellow;
+}
+.tablaLlenar{
+    max-width: 950px;
+}
+.img_producto{
+    height:50px;
+    width:50px;
+}
+.containerTotal{
+    display: none;
+}
